@@ -33,10 +33,11 @@
 
   The amount of data is sufficient. Challenges I forsee is choosing the proper features for the target. Lots of two choice columns without a lot of variance.
   
+  #Visuals
   
   ![image](https://github.com/BenjaminEngel919/Medical-Data/assets/126991382/bdad6b21-e9a9-4eb7-b9c7-fa95e2f30336)
   
-  
+  Stroke by Age. This barplot shows how stroke increases greatly with age.
 
   ![image](https://github.com/BenjaminEngel919/Medical-Data/assets/126991382/c5ffc454-56b7-4464-9ea6-a6748091c32b)
   
