@@ -33,7 +33,7 @@
 
   The amount of data is sufficient. Challenges I forsee is choosing the proper features for the target. Lots of two choice columns without a lot of variance.
   
-  #Visuals
+  Visuals
   
   ![image](https://github.com/BenjaminEngel919/Medical-Data/assets/126991382/bdad6b21-e9a9-4eb7-b9c7-fa95e2f30336)
   
@@ -41,8 +41,12 @@
 
   ![image](https://github.com/BenjaminEngel919/Medical-Data/assets/126991382/c5ffc454-56b7-4464-9ea6-a6748091c32b)
   
-  
+  Best Visual. Stroke by Age with Smoking Status. Shows the dangers of smoking.
 
   ![image](https://github.com/BenjaminEngel919/Medical-Data/assets/126991382/618c4e20-def8-4144-8811-c99871dee1ba)
   
-  Summary
+  Best Model, Logistic Regression. Predicted a Stroke and had the lowest number of missed strokes.
+  
+  Summary:
+  
+  My two recommendations to my stake holders would be to get a much larger data set. This is a hard model because False positive and negatives is acutally life and death. Not just a smaller return on investment. Logistic Regression is the best model as there are just two outcomes to predict with the target. The other models create too many bad predictions without predciting more True Positives. But best isn't something I would stake my life on. More data would definitely help with better predictions.
